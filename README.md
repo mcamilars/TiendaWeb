@@ -1,6 +1,6 @@
-# Entrega proyecto final
+# TiendApp Web
 
-El proyecto trata de Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nec rutrum ante. Mauris dignissim odio sed arcu laoreet, ut imperdiet neque porttitor. Ut consectetur tempor orci, sit amet scelerisque lorem tincidunt vel. Praesent tincidunt urna a dignissim fringilla. Fusce vehicula egestas porta. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc et lacus sapien. Nullam non tristique nibh, sed cursus orci.
+TiendApp Web es una aplicación de comercio electrónico desarrollada con React que permite a los usuarios navegar por un catálogo de productos, ver detalles de cada producto, agregar items al carrito de compras y gestionar las cantidades. Los productos tienen categorías como belleza, mueblería y alimentos. La aplicación utiliza React Router para la navegación entre páginas, Context API para la gestión del estado del carrito y localStorage para persistir los datos del carrito entre sesiones.
 
 ## Integrantes del grupo: 
 * Maria Camila Restrepo Silva - 20221020044 mcrestrepos@udistrital.edu.co
